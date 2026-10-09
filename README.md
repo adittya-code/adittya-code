@@ -43,7 +43,7 @@ Building projects • Solving DSA • Contributing to Open Source
 | Project | Description |
 |---|---|
 | 🎮 [Tic-Tac-Toe](https://github.com/adittya-code/tic-tac-toe-game) | Two-player browser game using HTML, CSS and JavaScript. |
-| 💱 [Currency Converter](https://github.com/adittya-code/Currency-Converter) | Currency conversion using an exchange-rate API. |
+| 💱 [Currency Converter](https://github.com/adittya-code/Currency-Convertor) | Currency conversion using an exchange-rate API. |
 | ✅ [Habit Tracker](https://github.com/adittya-code/habit-tracker) | Habit tracking application built with React and Firebase. |
 | 🌐 [LeadOrbit Contributions](https://github.com/adittya-code/LeadOrbit-Aditya) | Open-source frontend contributions and UI improvements. |
 | ✨ [EaseMotion CSS](https://github.com/adittya-code/EaseMotion-css-Aditya) | Contributions to an animation-focused CSS project. |
